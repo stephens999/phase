@@ -47,8 +47,8 @@ public:
   void ComputeFlipProbErrProbAlleleProb(const HPairType & guesspair, vector<double> & flipprob, vector< vector<double> > & errprob, vector< vector< vector<double> > > & alleleprob, const vector<int> & nmissing);
   
   // return summary of HapPairList
-  Summary HapPairList::Summarise(const vector<int> & nmissing, bool allowsplit = true);
-  Summary HapPairList::Summarise(int startlocus, int endlocus, const vector<int> & nmissing, bool allowsplit = true);
+  Summary Summarise(const vector<int> & nmissing, bool allowsplit = true);
+  Summary Summarise(int startlocus, int endlocus, const vector<int> & nmissing, bool allowsplit = true);
 
 };
 

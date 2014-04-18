@@ -56,8 +56,8 @@ public:
   void Add(vector<CIndividual> & pop,int, bool = false); 
 
   // Add routines that return pointers to the added haplotype
-  ListType::iterator HapList::Add (CIndividual & ind, int chr, double freq, bool & isnewhap, bool usebestguess = false);
-  ListType::iterator HapList::Add (const Haplotype & h, double freq, bool & isnewhap);
+  ListType::iterator Add (CIndividual & ind, int chr, double freq, bool & isnewhap, bool usebestguess = false);
+  ListType::iterator Add (const Haplotype & h, double freq, bool & isnewhap);
 
   ListType::iterator Find(const Haplotype & h, const vector<int> & uselist);
   

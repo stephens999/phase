@@ -20,8 +20,8 @@ SMLFLAGS = -O2 $(INCLUDE)
 DEBUGFLAGS = -g -DDEBUG=5 -DCHECK_BOUNDARY $(INCLUDE)
 
 #LDFLAGS = -L../crand/ -lcrand -lm -ldmallocxx
-#LDFLAGS = -lm
-LDFLAGS = /usr/lib/libm.a -static 
+LDFLAGS = -lm
+#LDFLAGS = /usr/lib/libm.a -static 
 
 .SUFFIXES: 
 .SUFFIXES: .cpp .o .c
