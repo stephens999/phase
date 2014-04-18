@@ -1,0 +1,4 @@
+(after removing line between N and params in the hudson file)
+
+perl hudson2phase.pl ~/phase/hudson.k1.t4.r40.20.in hr40.20.new.inp
+
