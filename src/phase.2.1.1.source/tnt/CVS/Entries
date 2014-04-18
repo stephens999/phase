@@ -1,0 +1,24 @@
+/cholesky.h/1.1/Mon Apr  9 16:23:51 2001//
+/cmat.h/1.1/Mon Apr  9 16:23:51 2001//
+/fcscmat.h/1.1/Mon Apr  9 16:23:51 2001//
+/fmat.h/1.1/Mon Apr  9 16:23:51 2001//
+/fortran.h/1.1/Mon Apr  9 16:23:51 2001//
+/fspvec.h/1.1/Mon Apr  9 16:23:51 2001//
+/index.h/1.1/Mon Apr  9 16:23:51 2001//
+/lapack.h/1.1/Mon Apr  9 16:23:51 2001//
+/lu.h/1.1/Mon Apr  9 16:23:51 2001//
+/qr.h/1.1/Mon Apr  9 16:23:51 2001//
+/region1d.h/1.1/Mon Apr  9 16:23:51 2001//
+/region2d.h/1.1/Mon Apr  9 16:23:52 2001//
+/stopwatch.h/1.1/Mon Apr  9 16:23:52 2001//
+/subscript.h/1.1/Mon Apr  9 16:23:52 2001//
+/tnt.h/1.1/Mon Apr  9 16:23:52 2001//
+/tntmath.h/1.1/Mon Apr  9 16:23:52 2001//
+/tntreqs.h/1.1/Mon Apr  9 16:23:52 2001//
+/transv.h/1.1/Mon Apr  9 16:23:52 2001//
+/triang.h/1.1/Mon Apr  9 16:23:52 2001//
+/trisolve.h/1.1/Mon Apr  9 16:23:52 2001//
+/vec.h/1.1/Mon Apr  9 16:23:52 2001//
+/vecadaptor.h/1.1/Mon Apr  9 16:23:52 2001//
+/version.h/1.1/Mon Apr  9 16:23:52 2001//
+D/examples////
