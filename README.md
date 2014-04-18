@@ -1,0 +1,2 @@
+Try 
+make testSPLm
